@@ -1,6 +1,11 @@
 # Olá! Eu sou o Zimbicki 👋
 
-### 🚀 Tecnologias:
+### 🚀 Sobre mim
+Sou um **Desenvolvedor Fullstack** focado na criação de aplicações robustas e dinâmicas. Tenho experiência no desenvolvimento de APIs escaláveis, além de trabalhar na integração de interfaces e lógica de sistemas utilizando JavaScript. Estou sempre em busca de aprimorar a qualidade do meu código.
+
+---
+
+### Tecnologias:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -9,7 +14,7 @@
 
 ---
 
-### 📊 Estatísticas:
+### Estatísticas:
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zimbicki&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbicki&layout=compact&theme=tokyonight" />
@@ -17,6 +22,6 @@
 
 ---
 
-### 📫 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+### Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
