@@ -1,6 +1,6 @@
 # Olá! Eu sou o Zimbicki 👋
 
-### 🚀 Sobre mim
+### Sobre mim
 Sou um **Desenvolvedor Fullstack** focado na criação de aplicações robustas e dinâmicas. Tenho experiência no desenvolvimento de APIs escaláveis, além de trabalhar na integração de interfaces e lógica de sistemas utilizando JavaScript. Estou sempre em busca de aprimorar a qualidade do meu código.
 
 ---
@@ -15,10 +15,8 @@ Sou um **Desenvolvedor Fullstack** focado na criação de aplicações robustas 
 ---
 
 ### Estatísticas:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zimbicki&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbicki&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zimbicki&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbicki&layout=compact&theme=tokyonight)
 
 ---
 
