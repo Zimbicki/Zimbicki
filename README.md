@@ -15,7 +15,7 @@ Sou um **Desenvolvedor Fullstack** focado na criação de aplicações robustas 
 ---
 
 ### Estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zimbicki&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zimbicki&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimbicki&layout=compact&theme=tokyonight)
 
 ---
